@@ -1,4 +1,4 @@
-# developpeur-blockchain
+# Blockchain Developer
 
 This is my CV
 
