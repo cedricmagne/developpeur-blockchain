@@ -15,6 +15,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <meta title="Développeur blockchain Full Stack, Solidity | Cédric Magne" />
           <meta
             name="Description"
             content="I'm blockchain developer, who develop smart contracts with Solidity. My favourite stack is NextJs, Tailwindcss, Web3.js or Ethers.js, Google Cloud Platform for the infrastructure - Cedric Magne"
