@@ -14,7 +14,7 @@ export default function Home() {
             <span className="text-white">Développeur freelance</span> depuis 12
             ans.
             <br />
-            J'ai évolué sur différentes technologies
+            J&apos;ai évolué sur différentes technologies
             <br />
             <span className="text-white">
               web, e-commerce, cloud et blockchain
@@ -193,24 +193,24 @@ export default function Home() {
             </div>
 
             <p className="mt-8 text-lg text-gray-500">
-              Après de longues années dans l'e-commerce, je me suis intéressé à
-              la Blockchain début 2019.
+              Après de longues années dans l&apos;e-commerce, je me suis
+              intéressé à la Blockchain début 2019.
             </p>
             <p className="mt-8 text-lg text-gray-500">
-              J'ai suivi la formation Blockchain dispensée par Alyra pour
+              J&apos;ai suivi la formation Blockchain dispensée par Alyra pour
               acquérir de nouvelles compétences dans le développement de{" "}
               <strong>smart contracts</strong>, la compréhension de la{" "}
               <strong>DeFi (Finance Décentralisée)</strong> ou encore les{" "}
               <strong>NFT</strong>.
             </p>
             <p className="mt-8 text-lg text-gray-500">
-              J'ai donc une expérience sur{" "}
+              J&apos;ai donc une expérience sur{" "}
               <span className="font-semibold">
                 Ethereum, Solidity et TypeScript.
               </span>
             </p>
             <p className="mt-8 text-lg text-gray-500">
-              J'évolue sur des projets variés comme les marketplaces de{" "}
+              J&apos;évolue sur des projets variés comme les marketplaces de{" "}
               <span className="font-semibold">
                 NFT ou des projets dans la DeFi (Finance Décentralisée).
               </span>
@@ -223,8 +223,8 @@ export default function Home() {
               Wonderbox ou encore Jimmy Fairly.
             </p>
             <p className="mt-8 text-lg text-gray-500">
-              Du poste de développeur à CTO j'ai aussi acquis des compétences
-              sur les architectures Cloud. Ma stack préférée :{" "}
+              Du poste de développeur à CTO j&apos;ai aussi acquis des
+              compétences sur les architectures Cloud. Ma stack préférée :{" "}
               <span className="font-semibold">
                 TypeScript, NextJs, Tailwindcss, Web3.js / Ethers.js, Truffle /
                 Hardhat, Google Cloud
