@@ -98,7 +98,7 @@ export default function Home() {
             </li>
 
             <li>
-              <Link href="mailto:cedric@developpeur-blockchain.com" passHref>
+              <Link href="mailto:cedric@developpeurblockchain.com" passHref>
                 <a
                   className="text-gray-200 hover:text-gray-100"
                   target="_blank"
@@ -457,7 +457,7 @@ export default function Home() {
                 <span className="sr-only">Email</span>
               </dt>
               <dd className="text-lg text-gray-500">
-                <Link href="mailto:cedric@developpeur-blockchain.com" passHref>
+                <Link href="mailto:cedric@developpeurblockchain.com" passHref>
                   <a
                     className="flex items-center text-gray-500 hover:text-gray-700"
                     target="_blank"
@@ -465,7 +465,7 @@ export default function Home() {
                     <span className="sr-only">Me contacter</span>
                     <MailIcon className="h-6 w-6" aria-hidden="true" />
                     <span className="ml-3">
-                      cedric[at]developpeur-blockchain.com
+                      cedric[at]developpeurblockchain.com
                     </span>
                   </a>
                 </Link>
